@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm an **Electrical Engineer turned Software Engin
 ---
 
 ## 🌍 Let's Connect
-- 📧 Email: [your-email@example.com](ejtmaravillas@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/eli-joshua-maravillas-a96545a2/)
+- 📧 Email: [ejtmaravillas@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/eli-joshua-maravillas-a96545a2/]
 ---
 
 ## 📊 GitHub Stats
